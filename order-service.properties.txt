@@ -1,0 +1,4 @@
+server.port=8002
+
+# for eureka client
+spring.application.name=order-service
